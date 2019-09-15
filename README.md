@@ -7,3 +7,6 @@ If you try test, you can run:
 
 ## Mock data documentation
 https://github.com/howardabrams/node-mocks-http
+
+## Install Extension
+test debugging: vscode-jest-runner
