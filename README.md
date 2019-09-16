@@ -10,3 +10,6 @@ https://github.com/howardabrams/node-mocks-http
 
 ## Install Extension
 test debugging: vscode-jest-runner
+
+## Manual Testing API with Postman
+https://www.getpostman.com/downloads/
